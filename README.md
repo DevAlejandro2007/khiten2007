@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @khiten2007
+- 👋 Hi, I’m @Alejandro2007
 - 👀 I’m interested in python and 
 cybersecurity
-- 🌱 I’m currently learning 
-python POO
+- 🌱 basic POO in Python 
 
 <!---
 khiten2007/khiten2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
